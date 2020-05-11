@@ -1,5 +1,14 @@
-Photo by Brett Sayles from Pexels (warm background : landscape )
-Photo by eberhard grossgasteiger from Pexels (cold background : landscape) 
+Photo by Brett Sayles from Pexels (cloudy)
+Photo by eberhard grossgasteiger from Pexels (snowy) 
+Photo by Moritz Böing from Pexels (thunderstorm)
+Photo by Pixabay from Pexels (drizzle)
+Photo by Bibhukalyan Acharya from Pexels (rainy day)
+Photo by Pixabay from Pexels (misty & foggy)
+Photo by eberhard grossgasteiger from Pexels (default)
+Photo by Ralph W. lambrecht from Pexels (tornado)
+Photo by Damon Hall from Pexels (clear sky)
+
+
 
 Photo by Adrianna Calvo from Pexels (warm background : phone)
 Photo by VisionPic .net from Pexels (cold background : phone)

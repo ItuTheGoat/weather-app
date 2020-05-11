@@ -9,14 +9,42 @@ body {
 }
 
 .app {
-  background-image: url("./assets/coldbackground-landscape.jpg");
+  background-image: url("./assets/default.jpg");
   background-size: cover;
   background-position: bottom;
-  transition: 0.4 ease-out;
+  transition: 0.4s ease-out;
 }
 
-.app.warm {
-  background-image: url("./assets/warmbackground-landscape.jpg");
+.app.rainy {
+  background-image: url("./assets/rainy.jpg");
+}
+
+.app.cloudy {
+  background-image: url("./assets/cloudy.jpg");
+}
+
+.app.misty {
+  background-image: url("./assets/mistyfoggy.jpg");
+}
+
+.app.tornado {
+  background-image: url("./assets/tornado.jpg");
+}
+
+.app.clear {
+  background-image: url("./assets/clear.jpg");
+}
+
+.app.drizzle {
+  background-image: url("./assets/drizzle.jpg");
+}
+
+.app.snowy {
+  background-image: url("./assets/snowy.jpg");
+}
+
+.app.thunder {
+  background-image: url("./assets/thunderstorm.jpg");
 }
 
 main {
